@@ -12,7 +12,7 @@ RUN set -eux; \
   # ref: https://github.com/docker-library/golang/tree/master/1.8/alpine3.6
   #
   \
-  apk add --no-cache ca-certificates\
+  apk add --no-cache ca-certificates; \
   \
 	apk add --no-cache --virtual .build-deps \
 		bash \
