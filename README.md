@@ -1,4 +1,4 @@
-### Alternative Tyk Pump docker image in Alpine
+# Alternative Tyk Pump docker image in Alpine
 
 Official Tyk Pump Docker
 > https://github.com/TykTechnologies/tyk-pump-docker-pub
